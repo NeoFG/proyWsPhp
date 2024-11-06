@@ -40,3 +40,11 @@ composer test
 ```
 
 That's it! Now go build something cool.
+
+## Carpetas y archivos importantes
+public\uploads\thumbnails
+-index,php
+-.htaccess
+-src\Application\Controllers
+-src\Infrastructure\Database
+
